@@ -63,7 +63,7 @@ The game automatically saves your top 10 highest scores locally in your browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CTechDigitalpt/sneaky-snake-game.git
+   git clone https://github.com/harsha497/terraform-ansible/blob/snake-game
    ```
 2. Navigate to the project directory:
    ```bash
